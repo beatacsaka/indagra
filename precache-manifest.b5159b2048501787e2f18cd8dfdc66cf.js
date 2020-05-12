@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beatacsaka/indagra/indagra_logo.svg"
   },
   {
-    "revision": "2368d811a30fa0ff57f14c7f6ca9c6d4",
+    "revision": "73368f4c300492dd2b847827b700a33c",
     "url": "/beatacsaka/indagra/index.html"
   },
   {
@@ -116,12 +116,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beatacsaka/indagra/montaj_usi.svg"
   },
   {
-    "revision": "1b4b6f1fd4cec9c5cc77",
+    "revision": "7c20de927d900b71923b",
     "url": "/beatacsaka/indagra/static/css/main.814909e1.chunk.css"
   },
   {
-    "revision": "1b4b6f1fd4cec9c5cc77",
-    "url": "/beatacsaka/indagra/static/js/main.1b4b6f1f.chunk.js"
+    "revision": "7c20de927d900b71923b",
+    "url": "/beatacsaka/indagra/static/js/main.7c20de92.chunk.js"
   },
   {
     "revision": "5d0191d9b3f08250670a",

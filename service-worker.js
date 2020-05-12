@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/beatacsaka/indagra/precache-manifest.139899eed0b05ad9979af4cc3175aad7.js"
+  "/beatacsaka/indagra/precache-manifest.b5159b2048501787e2f18cd8dfdc66cf.js"
 );
 
 workbox.core.skipWaiting();
